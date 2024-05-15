@@ -4,4 +4,4 @@ app = Flask("Olá")
 
 @app.route('/')
 def ola():
-    return "Olá Mundo"
+    return "Salve!"
